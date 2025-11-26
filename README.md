@@ -1,16 +1,41 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Gad 👋</h1>
 
-<!--
-**MUNYEMANA12/MUNYEMANA12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Data Scientist | Python Developer | Founder @ GAD Data Solutions</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+- 🔬 **Passionate Data Scientist** focused on real-world, data-driven solutions  
+- 🧠 Skilled in **Python, Machine Learning, and Predictive Analytics**  
+- 📊 I enjoy cleaning data, building models, and creating insights from numbers  
+- 🌱 Always learning advanced ML, AI, and data engineering techniques  
+- 🌍 Based in **Kigali, Rwanda**
+
+---
+
+### 🔧 Tech Stack (Data Science Only)
+**Languages:**  
+Python • SQL  
+
+**Data Science Tools:**  
+Pandas • NumPy • Scikit-Learn • Matplotlib • Seaborn  
+
+**Other Tools:**  
+Git • Jupyter Notebook
+
+---
+
+### 🧠 Rotating Title (Data Science Only)
+```javascript
+const roles = [
+  "Data Scientist",
+  "Machine Learning Practitioner",
+  "AI Enthusiast",
+  "Python Developer"
+];
+
+let i = 0;
+setInterval(() => {
+  console.log(roles[i]);
+  i = (i + 1) % roles.length;
+}, 2000);
