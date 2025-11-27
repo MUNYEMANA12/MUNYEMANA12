@@ -1,7 +1,6 @@
 <h1 align="center">Hi, I'm Gad 👋</h1>
-https://github.com/MUNYEMANA12/gad-roles-page./settings/pages 
-Founder @ GAD Data Solutions
 
+<h3 align="center">Data Scientist | Python Developer | Founder @ GAD Data Solutions</h3>
 
 ---
 
