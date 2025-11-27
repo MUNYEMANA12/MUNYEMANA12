@@ -1,6 +1,8 @@
 <h1 align="center">Hi, I'm Gad 👋</h1>
 
-<h3 align="center">Data Scientist | Python Developer | Founder @ GAD Data Solutions</h3>
+![Rotating Roles](https://github.com/username/repo-name/raw/main/roles.gif)  
+Founder @ GAD Data Solutions
+
 
 ---
 
