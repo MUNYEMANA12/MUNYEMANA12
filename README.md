@@ -25,7 +25,8 @@ Git • Jupyter Notebook
 
 ---
 
-### 🧠 Rotating Title (Data Science Only)
+ 🧠 <h1 id="role"></h1>
+
 
 ![Data Scientist](https://img.shields.io/badge/-Data%20Scientist-blue)
 ![Machine Learning Practitioner](https://img.shields.io/badge/-ML%20Practitioner-green)
