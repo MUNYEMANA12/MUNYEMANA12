@@ -26,48 +26,10 @@ Git • Jupyter Notebook
 ---
 
 ### 🧠 Rotating Title (Data Science Only)
-<!DOCTYPE html>
-<html>
-<head>
-  <title>Rotating Roles</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      text-align: center;
-      margin-top: 50px;
-    }
-    #role {
-      font-size: 28px;
-      font-weight: bold;
-      padding: 10px 20px;
-      border-radius: 8px;
-      display: inline-block;
-      transition: background-color 0.5s, color 0.5s;
-    }
-  </style>
-</head>
-<body>
 
-<h1 id="role">Loading...</h1>
+![Data Scientist](https://img.shields.io/badge/-Data%20Scientist-blue)
+![Machine Learning Practitioner](https://img.shields.io/badge/-ML%20Practitioner-green)
+![AI Enthusiast](https://img.shields.io/badge/-AI%20Enthusiast-red)
+![Python Developer](https://img.shields.io/badge/-Python%20Developer-yellow)
 
-<script>
-const roles = [
-  { text: "Data Scientist", color: "white", background: "blue" },
-  { text: "Machine Learning Practitioner", color: "white", background: "green" },
-  { text: "AI Enthusiast", color: "white", background: "red" },
-  { text: "Python Developer", color: "black", background: "yellow" }
-];
-
-let i = 0;
-const roleEl = document.getElementById("role");
-
-setInterval(() => {
-  roleEl.textContent = roles[i].text;
-  roleEl.style.color = roles[i].color;
-  roleEl.style.backgroundColor = roles[i].background;
-  i = (i + 1) % roles.length;
-}, 2000); // changes every 2 seconds
-</script>
-
-</body>
-</html>
+   
