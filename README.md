@@ -1,6 +1,5 @@
 <h1 align="center">Hi, I'm Gad 👋</h1>
-
-![Rotating Roles](https://github.com/username/repo-name/raw/main/roles.gif)  
+https://github.com/MUNYEMANA12/gad-roles-page./settings/pages 
 Founder @ GAD Data Solutions
 
 
