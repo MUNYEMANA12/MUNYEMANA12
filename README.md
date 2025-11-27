@@ -25,7 +25,6 @@ Git • Jupyter Notebook
 
 ---
 
- 🧠 <h1 id="role"></h1>
 
 
 ![Data Scientist](https://img.shields.io/badge/-Data%20Scientist-blue)
