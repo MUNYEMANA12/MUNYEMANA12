@@ -13,12 +13,12 @@
 
 ---
 
-### 🔧 Tech Stack (Data Science Only)
+### 🔧 Tech Stack (Data Science)
 **Languages:**  
 Python • SQL  
 
 **Data Science Tools:**  
-Pandas • NumPy • Scikit-Learn • Matplotlib • Seaborn  
+Pandas • NumPy • Scikit-Learn • Matplotlib • Plotly • Seaborn
 
 **Other Tools:**  
 Git • Jupyter Notebook
